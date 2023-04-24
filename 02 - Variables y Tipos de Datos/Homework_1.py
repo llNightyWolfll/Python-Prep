@@ -132,6 +132,9 @@ print(var_24)
 
 print(f'Hola a todos mido {1.76 } metros y peso {79}  kg' )
 
+
+
+
 """Si son lo mismo
 
 Comentarios o cambios
